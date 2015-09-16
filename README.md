@@ -5,4 +5,15 @@ This is the pinteresting sample application for
 
 This is the project I'm creating while learning Rails!
 
+How to Stage, Commit and Push to Git Hub. 
+
+git add .
+	- adds new files 
+	- when only editting files skip to step 2. 
+
+git commit -am "message"
+	- stages, commits and adds a message to your commit
+git push
+	- push
+
 by [Bethany Cermak](http://myfamily.vacations)
