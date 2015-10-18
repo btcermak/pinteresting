@@ -3,6 +3,7 @@ ruby '2.1.5'
 
 # Added gems
 gem 'bootstrap-sass'
+gem 'devise'
 
 # Default gems below
 gem 'rails', '4.1.8'
